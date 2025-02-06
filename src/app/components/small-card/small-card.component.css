@@ -1,0 +1,21 @@
+.small-card__content, .small-card__content > a {
+    display: flex;
+    align-items: center;
+    height: 6rem;
+    width: 45vw;
+}
+
+.small-card__photo, .small-card__photo img, .small-card__content > a  {
+    height: 100%;
+    min-width: 160px;
+}
+
+.small-card__title {
+    padding: 1rem;
+}
+
+.container__small-card hr {
+    margin-top: 1rem;
+}
+
+

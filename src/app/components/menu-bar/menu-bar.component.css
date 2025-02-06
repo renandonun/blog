@@ -1,0 +1,10 @@
+.container__menu-bar > nav > ul {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    padding: 1rem;
+}
+
+li {
+    list-style: none;
+}
